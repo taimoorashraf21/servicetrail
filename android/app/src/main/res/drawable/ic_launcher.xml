@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ServiceTrail launcher icon (vector): green rounded square + amber sun.
+     Used instead of the template mipmap PNGs so the icon ships in text form. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#1B7A43"
+        android:pathData="M24,8h60a16,16 0 0,1 16,16v60a16,16 0 0,1 -16,16H24a16,16 0 0,1 -16,-16V24a16,16 0 0,1 16,-16z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,38m-16,0a16,16 0 1,0 32,0a16,16 0 1,0 -32,0" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M54,16v8M54,84v8M28,54h8M72,54h8M36,36l6,6M66,66l6,6M72,36l-6,6M42,66l-6,6" />
+</vector>
